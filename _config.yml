@@ -23,7 +23,8 @@ github_username:  j-stephan
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+remote_theme: jacobtomlinson/carte-noire
 #plugins:
 #  - jekyll-feed
 
