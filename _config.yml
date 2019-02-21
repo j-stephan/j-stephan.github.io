@@ -16,14 +16,16 @@
 title: misinterpret_cast
 email: jan.stephan.dd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We'll all be mad, soon enough.
-baseurl: "blog" # the subpath of your site, e.g. /blog
-url: "https://j-stephan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: j-stephan
+    We'll all be mad, soon enough.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  j-stephan
 
 # Build settings
 markdown: kramdown
-theme: midnight
+theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
