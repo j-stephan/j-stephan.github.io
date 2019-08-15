@@ -5,7 +5,7 @@ description: "We'll all be mad, soon enough."
 baseurl: ""
 url: "https://j-stephan.github.io"
 title_description: "We'll all be mad, soon enough."
-title_image: "/img/logo.png"
+title_image: "https://j-stephan.github.io/img/logo150.png"
 post_limit: 5
 
 # Social usernames/URLs
