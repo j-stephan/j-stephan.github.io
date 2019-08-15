@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SYCL *in nuce* -- Overview"
+title:  "SYCL in nuce -- Overview"
 date:   2019-08-16 00:00:00 +0100
 categories: sycl tutorial
 ---
